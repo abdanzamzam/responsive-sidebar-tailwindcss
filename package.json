@@ -1,0 +1,27 @@
+{
+  "name": "responsive-sidebar-tailwindcss",
+  "version": "1.0.0",
+  "description": "Responsive Sidebar TailwindCSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdanzamzam/responsive-sidebar-tailwindcss.git"
+  },
+  "keywords": [
+    "responsive",
+    "sidebar",
+    "tailwindcss"
+  ],
+  "author": "abdanzamzam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdanzamzam/responsive-sidebar-tailwindcss/issues"
+  },
+  "homepage": "https://github.com/abdanzamzam/responsive-sidebar-tailwindcss#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.0.18"
+  }
+}
