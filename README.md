@@ -3,6 +3,8 @@ Responsive Sidebar TailwindCSS
 
 Demo: https://responsive-sidebar-tailwindcss.vercel.app/
 
+TailwindComponents: https://tailwindcomponents.com/component/responsive-sidebar-tailwindcss
+
 ### Preview
 
 ![Screenshoot 1](https://github.com/abdanzamzam/responsive-sidebar-tailwindcss/blob/main/preview/Screenshot%201.png)
